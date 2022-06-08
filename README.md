@@ -16,6 +16,7 @@
 > 7.	Read his name and status (0 = regular, 1 urgent)
 > 8.	If 10 patients exist in this specialization, apologize and don’t accept
 
-![1](https://user-images.githubusercontent.com/85316956/172704715-7b0f6a45-507d-4762-9cd3-05608e686e31.png)
-![2](https://user-images.githubusercontent.com/85316956/172704741-0c747426-a715-4860-a210-6af6f5baf5c5.png)
+## Screenshot
 
+![1](https://user-images.githubusercontent.com/85316956/172706037-bd793fd4-7aad-4deb-acbf-ca818c2a9887.png)
+![2](https://user-images.githubusercontent.com/85316956/172706055-b7710926-ade1-42fe-ba7c-0e339f2ec4b0.png)
